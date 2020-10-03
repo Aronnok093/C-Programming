@@ -1,0 +1,58 @@
+Section D: Programs based on arrays
+Question D1: WAP to input the marks of 10 students in an array of integers and display the marks.
+Question D2: WAP to search how many times a number is present in an array.
+Question D3: WAP to subtract two arrays of the same size.
+Question D4: WAP to input the sales made by a salesman in every month of a given year and find out the total, average,
+maximum and minimum sales.
+Question D5: WAP to calculate the average of 10 values stored in an array and display all those values which are more than the
+calculated average.
+Question D6: WAP which finds the locations and values of largest and second largest element in a one dimensional array.
+Question D7: WAP to reverse an array of floats.
+Question D8: WAP to create a sorted list using arrays. Every time the element is entered in the array, the array must remain
+sorted.
+Question D9: WAP to rotate an integer array towards right by the given number of times.
+Question D10: WAP to input 20 values in an integer array and count the negative, positive, odd and even values in the array.
+Question D11: Given an array named A with following elements:
+3, -5, 1, 3, 7, 0, -15, 3, -7, -8
+WAP to shift the negative numbers to the left and positive numbers to the right so that the resultant array look like the
+-5, -15, -7, -8, 3, 1, 3, 7, 0, 3
+Question D12: WAP to copy the last 5 elements of array B after first 5 elements of array A. Assume length of A and B is greater
+than 5.
+Question D13: WAP to print all the palindrome numbers from an integer array and find out their sum.
+Question D14: WAP to print all the prime numbers from an integer array and find out their sum.
+Question D15: WAP to input 10 values in a float array and display all the values more than 75.
+Question D16: WAP delete an element from the array and shift the elements
+(1) Towards right.
+(2) Towards left
+Question D17: WAP to delete all the occurrences of a given value from the array and shift the remaining elements to the left of
+the array.
+Question D18: WAP to delete duplicate elements from an array.
+Question D19: WAP to insert a value in the array at desired location.
+Question D20: WAP to insert a value in the sorted array.
+Question D21: WAP to sort an array.
+(1) Using bubble sort technique
+(2) Using selection sort technique
+(3) Using insertion sort technique.
+(4) Using Quick sort technique
+(5) Using Heap sort technique.
+Question D22: WAP to check that given array is sorted in ascending / descending order.
+Question D23: WAP to search a value in the array using
+(1) Linear search technique.
+(2) Using binary search technique.
+Question D24: WAP to count the number of occurrences of a given number in an integer array.
+Question D25: An array consists of 50 integers in the range of 1 to 25, write a program that prints the number of times each
+integer occurs in the array.
+Question D26: A, B, C are the arrays of integers of size a, b, a + b, Write a program to produce a third array C containing all the
+elements of array A and B.
+Question D27: WAP to merge two arrays according to the following conditions:
+First array Second array Resultant array
+(1) Ascending Ascending Ascending
+(2) Ascending Ascending Descending
+(3) Ascending Descending Ascending
+(4) Ascending Descending Descending
+(5) Descending Descending Ascending
+(6) Descending Descending Descending
+Question D28: WAP to add and multiply two large integers, which cannot be represented by built in data types.
+Question D29: WAP to delete all elements in between and occupying two specified positions.
+Question D30: WAP to search the first occurrence a given sub array within another array.
+Question D31: WAP to merge 4 arrays a, b, c, d in one array. All the arrays are in ascending order.
